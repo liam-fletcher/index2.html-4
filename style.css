@@ -1,0 +1,16 @@
+.intro{
+ background-color: tomato;
+ text-align: center;
+ color: yellow;
+ font: 15px Monospace;
+}
+.table, th, td {
+  border: 1px solid plum;
+  background-color: yellow;
+  font: 15px Monospace;
+  }
+  .tab{
+    border: 6px solid forestgreen;
+    background-color: red;
+    font: 15px Monospace;
+  }
